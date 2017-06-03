@@ -1,12 +1,12 @@
 **This application uses Spark 2.1.0 version which is marked as 'provided' inside ```build.sbt``` file.**
 
-###Run command usage
+### Run command usage
 
 ```
 spark-submit --class com.fp.GumGumJoiner --master local[*] <jar> <adevents> <assets> <output>
 ```
 
-###Run command with prepared file paths
+### Run command with prepared file paths
 
 ```
 spark-submit 

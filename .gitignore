@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+*.log
+!/target/scala-2.11/gumgum-challenge-assembly-1.0.jar
